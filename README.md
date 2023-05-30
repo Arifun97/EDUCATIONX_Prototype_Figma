@@ -4,3 +4,6 @@ This is a prototype app for students who are transferring from high school to co
 This is a interactive prototype and 
 it can be accessed at this link          https://www.figma.com/proto/pJAznaLkilaUUAUrQJvJ82/EDUCATION-X?type=design&node-id=19-162&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 
+All the deliverables, prototype, contextual anlysis and evolution of the project was provided in a website we created. 
+Link for the website: https://educationteamx.weebly.com/
+
